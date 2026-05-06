@@ -1,2 +1,31 @@
-# 90781b59-financial-advisor-client-wealt
-Professional Notion workspace for independent financial advisors managing client portfolios and planning relationships. Features a client household database with account summary, risk tolerance notes, and life stage categorisation. Includes a financial plan tracker with goal progress, insurance coverage review log, estate planning document checklis
+# Financial Advisor Client Wealth Management Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w6oH12Df6Q4pq0VecZa0U)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w6oH12Df6Q4pq0VecZa0U)
+- [Buy on Gumroad](https://pulsegear.gumroad.com/l/afbgiu)
+- [Buy on Whop](https://whop.com/financial-advisor-client-wealth-management-notion-template)
+
